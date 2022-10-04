@@ -1,4 +1,4 @@
-public class Course25 {
+public class ConverteDoubleToInt {
     public static void main(String[] args) {
         double a;
         int b;
